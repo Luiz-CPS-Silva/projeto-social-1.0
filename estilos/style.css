@@ -30,8 +30,8 @@ section#telefone {
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 627px;
-    width: 311px;
+    height: 620px;
+    width: 300px;
     background: url("../imagens/frame-iphone.png") no-repeat;
 }
 
